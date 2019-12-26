@@ -224,7 +224,7 @@ def domake():
 # 利用執行緒執行 https 伺服器
 make = threading.Thread(target=domake)
 make.start()</t>
-<t tx="yen.20170108171939.1">@language python
+<t tx="yen.20170108171939.1" annotate="7d7100580700000064756574696d657101580f00000031343a34303a30332e3336303030307102732e">@language python
 import os
 import subprocess
 import threading
@@ -253,6 +253,11 @@ def domake():
 make = threading.Thread(target=domake)
 make.start()</t>
 <t tx="yen.20170224232341.1"></t>
-<t tx="yen.20170224232341.2"></t>
+<t tx="yen.20170224232341.2">
+
+
+
+
+</t>
 </tnodes>
 </leo_file>
