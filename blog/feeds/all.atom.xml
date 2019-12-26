@@ -27,6 +27,90 @@
 &lt;p&gt;第8章概述了NX 12中提供的Design Simulations的簡要介紹。&lt;/p&gt;
 &lt;p&gt;第9章將是在製造中實施設計模型的實時經驗加工環境。本章介紹工具的生成，驗證和模擬創建CNC（計算機數字代碼）以從多軸生產設計零件的路徑甚至先進的CNC機器。每章中使用的示例和練習問題都經過精心設計，以使它們最終得以應用組裝在本章中。由於這項獨特的功能，您應該保存所有的模型在每一章中都有創建。&lt;/p&gt;
 &lt;p&gt;資料連結&lt;/p&gt;
+&lt;p&gt;http://mde.tw/cad2019/content/NX.html&lt;/p&gt;</content><category term="2018FallCP"></category></entry><entry><title>nx</title><link href="https://s40723119.github.io/cad2019/blog/nx.html" rel="alternate"></link><published>2019-12-26T11:00:00+08:00</published><updated>2019-12-26T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:s40723119.github.io,2019-12-26:/cad2019/blog/nx.html</id><summary type="html">&lt;p&gt;NX是Siemens PLM Software提供的世界上最先進且緊密集成的CAD / CAM / CAE產品開發解決方案之一。 NX涵蓋了整個產品開發範圍，可為各種規模的企業提供巨大的價值。 它簡化了複雜的產品開發，從而加快了將產品推向市場的過程
+</summary><content type="html">&lt;p&gt;NX是Siemens PLM Software提供的世界上最先進且緊密集成的CAD / CAM / CAE產品開發解決方案之一。 NX涵蓋了整個產品開發範圍，可為各種規模的企業提供巨大的價值。 它簡化了複雜的產品開發，從而加快了將產品推向市場的過程
+&lt;/p&gt;
+&lt;p&gt;第1章簡介&lt;/p&gt;
+&lt;p&gt;現代製造環境可以通過提供的種類越來越多的產品，小批量和更高的質量在提高全球競爭的背景下的模式為特徵。除非行業以更高的質量，更低的成本和更短的交付時間推出新產品，否則它們就無法在全球競爭中生存。國際競爭激烈，技術工人的供應減少。 隨著計算能力的巨大變化和用於設計和生產的軟件工具的廣泛可用性，現在工程師都使用計算機輔助設計（CAD），計算機輔助製造（CAM）和計算機輔助工程（CAE）系統來自動化設計和生產過程。現在這些技術每天都用於各種不同的工程任務。 以下是產品實現過程中如何使用CAD，CAM和CAE技術的簡要說明。&lt;/p&gt;
+&lt;p&gt;CAD / CAM / CAE的定義&lt;/p&gt;
+&lt;p&gt;•計算機輔助設計– CAD&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;  &lt;span class="n"&gt;CAD技術是涉及使用計算機系統協助創建&lt;/span&gt;&lt;span class="err"&gt;，修改，分析和優化設計。&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;•計算機輔助製造– CAM&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;CAM技術涉及到計算機系統規劃管理&lt;/span&gt;&lt;span class="err"&gt;，並與工廠的生產資源的控制通過計算機接口的製造業務。&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;•計算機輔助工程– CAE
+    CAE技術使用計算機系統來分析CAD創建的產品的功能，從而使設計人員可以模擬和研究產品的性能，從而可以優化和優化設計。&lt;/p&gt;
+&lt;p&gt;這本原文書是針對有興趣學習如何使用NX 12設計機械零件和組件的學生和工程師編寫的。學習使用NX 12對於學習如何使用其他CAD系統（例如PRO-E和CATIA）也將非常有價值。 &lt;/p&gt;
+&lt;p&gt;第2章介紹了從開始會話到熟悉NX的NX 12基本知識。通過練習基本功能（如打印，保存和退出）來佈局12。它還給出了簡短的描述坐標系圖層，各種工具箱和其他重要命令在後面的章節中使用。&lt;/p&gt;
+&lt;p&gt;第3章介紹了素描的概念。它描述瞭如何創建草圖並給出幾何和尺寸約束。從今天開始，本章非常重要組件的幾何形狀非常複雜，僅憑基本特徵很難建模。&lt;/p&gt;
+&lt;p&gt;第4章開始零件的實際設計和建模。它描述了不同的功能例如參考特徵，掃描特徵和原始特徵，以及如何使用這些特徵創建設計。對特徵執行各種特徵操作。&lt;/p&gt;
+&lt;p&gt;第5章中學習如何從零件模型創建工程圖。在本章中，我們通過添加視圖，標註零件圖紙尺寸來演示如何創建圖紙，以及修改圖形中的各種屬性，例如文本大小，箭頭大小和公差。&lt;/p&gt;
+&lt;p&gt;第6章介紹了裝配建模的概念及其術語。它描述了Top-向下建模和自下而上建模。我們將使用自下而上的模型進行組裝組件變成產品。&lt;/p&gt;
+&lt;p&gt;第7章介紹了自由格式建模。曲線和平滑曲面的建模方法將被演示。&lt;/p&gt;
+&lt;p&gt;第8章概述了NX 12中提供的Design Simulations的簡要介紹。&lt;/p&gt;
+&lt;p&gt;第9章將是在製造中實施設計模型的實時經驗加工環境。本章介紹工具的生成，驗證和模擬創建CNC（計算機數字代碼）以從多軸生產設計零件的路徑甚至先進的CNC機器。每章中使用的示例和練習問題都經過精心設計，以使它們最終得以應用組裝在本章中。由於這項獨特的功能，您應該保存所有的模型在每一章中都有創建。&lt;/p&gt;
+&lt;p&gt;資料連結
+&lt;a href="http://mde.tw/cad2019/content/NX.html"&gt;http://mde.tw/cad2019/content/NX.html&lt;/a&gt;&lt;/p&gt;</content><category term="2018FallCP"></category></entry><entry><title>nx</title><link href="https://s40723119.github.io/cad2019/blog/nx.html" rel="alternate"></link><published>2019-12-26T11:00:00+08:00</published><updated>2019-12-26T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:s40723119.github.io,2019-12-26:/cad2019/blog/nx.html</id><summary type="html">&lt;p&gt;NX是Siemens PLM Software提供的世界上最先進且緊密集成的CAD / CAM / CAE產品開發解決方案之一。 NX涵蓋了整個產品開發範圍，可為各種規模的企業提供巨大的價值。 它簡化了複雜的產品開發，從而加快了將產品推向市場的過程
+</summary><content type="html">&lt;p&gt;NX是Siemens PLM Software提供的世界上最先進且緊密集成的CAD / CAM / CAE產品開發解決方案之一。 NX涵蓋了整個產品開發範圍，可為各種規模的企業提供巨大的價值。 它簡化了複雜的產品開發，從而加快了將產品推向市場的過程
+&lt;/p&gt;
+&lt;p&gt;第1章簡介&lt;/p&gt;
+&lt;p&gt;現代製造環境可以通過提供的種類越來越多的產品，小批量和更高的質量在提高全球競爭的背景下的模式為特徵。除非行業以更高的質量，更低的成本和更短的交付時間推出新產品，否則它們就無法在全球競爭中生存。國際競爭激烈，技術工人的供應減少。 隨著計算能力的巨大變化和用於設計和生產的軟件工具的廣泛可用性，現在工程師都使用計算機輔助設計（CAD），計算機輔助製造（CAM）和計算機輔助工程（CAE）系統來自動化設計和生產過程。現在這些技術每天都用於各種不同的工程任務。 以下是產品實現過程中如何使用CAD，CAM和CAE技術的簡要說明。&lt;/p&gt;
+&lt;p&gt;CAD / CAM / CAE的定義&lt;/p&gt;
+&lt;p&gt;•計算機輔助設計– CAD&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;  &lt;span class="n"&gt;CAD技術是涉及使用計算機系統協助創建&lt;/span&gt;&lt;span class="err"&gt;，修改，分析和優化設計。&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;•計算機輔助製造– CAM&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;CAM技術涉及到計算機系統規劃管理&lt;/span&gt;&lt;span class="err"&gt;，並與工廠的生產資源的控制通過計算機接口的製造業務。&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;•計算機輔助工程– CAE
+    CAE技術使用計算機系統來分析CAD創建的產品的功能，從而使設計人員可以模擬和研究產品的性能，從而可以優化和優化設計。&lt;/p&gt;
+&lt;p&gt;這本原文書是針對有興趣學習如何使用NX 12設計機械零件和組件的學生和工程師編寫的。學習使用NX 12對於學習如何使用其他CAD系統（例如PRO-E和CATIA）也將非常有價值。 &lt;/p&gt;
+&lt;p&gt;第2章介紹了從開始會話到熟悉NX的NX 12基本知識。通過練習基本功能（如打印，保存和退出）來佈局12。它還給出了簡短的描述坐標系圖層，各種工具箱和其他重要命令在後面的章節中使用。&lt;/p&gt;
+&lt;p&gt;第3章介紹了素描的概念。它描述瞭如何創建草圖並給出幾何和尺寸約束。從今天開始，本章非常重要組件的幾何形狀非常複雜，僅憑基本特徵很難建模。&lt;/p&gt;
+&lt;p&gt;第4章開始零件的實際設計和建模。它描述了不同的功能例如參考特徵，掃描特徵和原始特徵，以及如何使用這些特徵創建設計。對特徵執行各種特徵操作。&lt;/p&gt;
+&lt;p&gt;第5章中學習如何從零件模型創建工程圖。在本章中，我們通過添加視圖，標註零件圖紙尺寸來演示如何創建圖紙，以及修改圖形中的各種屬性，例如文本大小，箭頭大小和公差。&lt;/p&gt;
+&lt;p&gt;第6章介紹了裝配建模的概念及其術語。它描述了Top-向下建模和自下而上建模。我們將使用自下而上的模型進行組裝組件變成產品。&lt;/p&gt;
+&lt;p&gt;第7章介紹了自由格式建模。曲線和平滑曲面的建模方法將被演示。&lt;/p&gt;
+&lt;p&gt;第8章概述了NX 12中提供的Design Simulations的簡要介紹。&lt;/p&gt;
+&lt;p&gt;第9章將是在製造中實施設計模型的實時經驗加工環境。本章介紹工具的生成，驗證和模擬創建CNC（計算機數字代碼）以從多軸生產設計零件的路徑甚至先進的CNC機器。每章中使用的示例和練習問題都經過精心設計，以使它們最終得以應用組裝在本章中。由於這項獨特的功能，您應該保存所有的模型在每一章中都有創建。&lt;/p&gt;
+&lt;p&gt;資料連結
+&lt;a href="http://mde.tw/cad2019/content/NX.html"&gt;http://mde.tw/cad2019/content/NX.html&lt;/a&gt;&lt;/p&gt;</content><category term="2018FallCP"></category></entry><entry><title>nx</title><link href="https://s40723119.github.io/cad2019/blog/nx.html" rel="alternate"></link><published>2019-12-26T11:00:00+08:00</published><updated>2019-12-26T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:s40723119.github.io,2019-12-26:/cad2019/blog/nx.html</id><summary type="html">&lt;p&gt;NX是Siemens PLM Software提供的世界上最先進且緊密集成的CAD / CAM / CAE產品開發解決方案之一。 NX涵蓋了整個產品開發範圍，可為各種規模的企業提供巨大的價值。 它簡化了複雜的產品開發，從而加快了將產品推向市場的過程
+</summary><content type="html">&lt;p&gt;NX是Siemens PLM Software提供的世界上最先進且緊密集成的CAD / CAM / CAE產品開發解決方案之一。 NX涵蓋了整個產品開發範圍，可為各種規模的企業提供巨大的價值。 它簡化了複雜的產品開發，從而加快了將產品推向市場的過程
+&lt;/p&gt;
+&lt;p&gt;第1章簡介&lt;/p&gt;
+&lt;p&gt;現代製造環境可以通過提供的種類越來越多的產品，小批量和更高的質量在提高全球競爭的背景下的模式為特徵。除非行業以更高的質量，更低的成本和更短的交付時間推出新產品，否則它們就無法在全球競爭中生存。國際競爭激烈，技術工人的供應減少。 隨著計算能力的巨大變化和用於設計和生產的軟件工具的廣泛可用性，現在工程師都使用計算機輔助設計（CAD），計算機輔助製造（CAM）和計算機輔助工程（CAE）系統來自動化設計和生產過程。現在這些技術每天都用於各種不同的工程任務。 以下是產品實現過程中如何使用CAD，CAM和CAE技術的簡要說明。&lt;/p&gt;
+&lt;p&gt;CAD / CAM / CAE的定義&lt;/p&gt;
+&lt;p&gt;•計算機輔助設計– CAD&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;  &lt;span class="n"&gt;CAD技術是涉及使用計算機系統協助創建&lt;/span&gt;&lt;span class="err"&gt;，修改，分析和優化設計。&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;•計算機輔助製造– CAM&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;CAM技術涉及到計算機系統規劃管理&lt;/span&gt;&lt;span class="err"&gt;，並與工廠的生產資源的控制通過計算機接口的製造業務。&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;•計算機輔助工程– CAE
+    CAE技術使用計算機系統來分析CAD創建的產品的功能，從而使設計人員可以模擬和研究產品的性能，從而可以優化和優化設計。&lt;/p&gt;
+&lt;p&gt;這本原文書是針對有興趣學習如何使用NX 12設計機械零件和組件的學生和工程師編寫的。學習使用NX 12對於學習如何使用其他CAD系統（例如PRO-E和CATIA）也將非常有價值。 &lt;/p&gt;
+&lt;p&gt;第2章介紹了從開始會話到熟悉NX的NX 12基本知識。通過練習基本功能（如打印，保存和退出）來佈局12。它還給出了簡短的描述坐標系圖層，各種工具箱和其他重要命令在後面的章節中使用。&lt;/p&gt;
+&lt;p&gt;第3章介紹了素描的概念。它描述瞭如何創建草圖並給出幾何和尺寸約束。從今天開始，本章非常重要組件的幾何形狀非常複雜，僅憑基本特徵很難建模。&lt;/p&gt;
+&lt;p&gt;第4章開始零件的實際設計和建模。它描述了不同的功能例如參考特徵，掃描特徵和原始特徵，以及如何使用這些特徵創建設計。對特徵執行各種特徵操作。&lt;/p&gt;
+&lt;p&gt;第5章中學習如何從零件模型創建工程圖。在本章中，我們通過添加視圖，標註零件圖紙尺寸來演示如何創建圖紙，以及修改圖形中的各種屬性，例如文本大小，箭頭大小和公差。&lt;/p&gt;
+&lt;p&gt;第6章介紹了裝配建模的概念及其術語。它描述了Top-向下建模和自下而上建模。我們將使用自下而上的模型進行組裝組件變成產品。&lt;/p&gt;
+&lt;p&gt;第7章介紹了自由格式建模。曲線和平滑曲面的建模方法將被演示。&lt;/p&gt;
+&lt;p&gt;第8章概述了NX 12中提供的Design Simulations的簡要介紹。&lt;/p&gt;
+&lt;p&gt;第9章將是在製造中實施設計模型的實時經驗加工環境。本章介紹工具的生成，驗證和模擬創建CNC（計算機數字代碼）以從多軸生產設計零件的路徑甚至先進的CNC機器。每章中使用的示例和練習問題都經過精心設計，以使它們最終得以應用組裝在本章中。由於這項獨特的功能，您應該保存所有的模型在每一章中都有創建。&lt;/p&gt;
+&lt;p&gt;資料連結&lt;/p&gt;
 &lt;p&gt;http://mde.tw/cad2019/content/NX.html&lt;/p&gt;</content><category term="2018FallCP"></category></entry><entry><title>2018 Fall CP 課程</title><link href="https://s40723119.github.io/cad2019/blog/2018-Fall-32-bit-Windows.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:s40723119.github.io,2018-09-10:/cad2019/blog/2018-Fall-32-bit-Windows.html</id><summary type="html">&lt;p&gt;2018 Fall 一開始, 在一台已經 10 年的 32 位元的 Windows 7 操作系統中工作. 可攜的 Python 3.7.0 仍然可以配置, Leo Editor、PyQt5、flask、Markdown、pelican 與 bs4 的安裝, 也都沒有問題. 只有 Eric6 因為缺少必要模組與 Python 3.7.0 對應的 pyqt5-tools, 因此沒有安裝.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 一開始, 在一台已經 10 年的 32 位元的 Windows 7 操作系統中工作. 可攜的 Python 3.7.0 仍然可以配置, Leo Editor、PyQt5、flask、Markdown、pelican 與 bs4 的安裝, 也都沒有問題. 只有 Eric6 因為缺少必要模組與 Python 3.7.0 對應的 pyqt5-tools, 因此沒有安裝.&lt;/p&gt;
 
