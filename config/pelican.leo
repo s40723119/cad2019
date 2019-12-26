@@ -71,14 +71,6 @@
 </v>
 </v>
 </v>
-<v t="leo.20191226165733.1"><vh>@path markdown</vh>
-<v t="leo.20191226165733.2"><vh>2019</vh>
-<v t="leo.20191226165733.3"><vh>2019cad</vh>
-<v t="leo.20191226165733.4"><vh>@edit 20191226.md</vh></v>
-<v t="leo.20191226165733.5"><vh>@edit 20180911.md</vh></v>
-</v>
-</v>
-</v>
 <v t="yen.20170108171733.83"><vh>產生 .key 與 .crt 指令</vh></v>
 </v>
 <v t="yen.20170108171930.1"><vh>@button https server</vh></v>
@@ -109,9 +101,6 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180115142025.1"></t>
 <t tx="leo.20180423103639.1"></t>
-<t tx="leo.20191226165733.1"></t>
-<t tx="leo.20191226165733.2"></t>
-<t tx="leo.20191226165733.3"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
