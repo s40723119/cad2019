@@ -87,7 +87,7 @@ os.system("pelican markdown -o blog -s publishconf.py")
 g.es("admin pelican Github 執行完畢")
 
 
-</t>
+xx</t>
 <t tx="leo.20170710015301.1"></t>
 <t tx="leo.20170710015511.1"></t>
 <t tx="leo.20170710015523.1"></t>
