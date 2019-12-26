@@ -53,9 +53,7 @@
 &lt;p&gt;第6章介紹了裝配建模的概念及其術語。它描述了Top-向下建模和自下而上建模。我們將使用自下而上的模型進行組裝組件變成產品。&lt;/p&gt;
 &lt;p&gt;第7章介紹了自由格式建模。曲線和平滑曲面的建模方法將被演示。&lt;/p&gt;
 &lt;p&gt;第8章概述了NX 12中提供的Design Simulations的簡要介紹。&lt;/p&gt;
-&lt;p&gt;第9章將是在製造中實施設計模型的實時經驗加工環境。本章介紹工具的生成，驗證和模擬創建CNC（計算機數字代碼）以從多軸生產設計零件的路徑甚至先進的CNC機器。每章中使用的示例和練習問題都經過精心設計，以使它們最終得以應用組裝在本章中。由於這項獨特的功能，您應該保存所有的模型在每一章中都有創建。&lt;/p&gt;
-&lt;p&gt;資料連結
-&lt;a href="http://mde.tw/cad2019/content/NX.html"&gt;http://mde.tw/cad2019/content/NX.html&lt;/a&gt;&lt;/p&gt;</content><category term="2018FallCP"></category></entry><entry><title>nx</title><link href="https://s40723119.github.io/cad2019/blog/nx.html" rel="alternate"></link><published>2019-12-26T11:00:00+08:00</published><updated>2019-12-26T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:s40723119.github.io,2019-12-26:/cad2019/blog/nx.html</id><summary type="html">&lt;p&gt;NX是Siemens PLM Software提供的世界上最先進且緊密集成的CAD / CAM / CAE產品開發解決方案之一。 NX涵蓋了整個產品開發範圍，可為各種規模的企業提供巨大的價值。 它簡化了複雜的產品開發，從而加快了將產品推向市場的過程
+&lt;p&gt;第9章將是在製造中實施設計模型的實時經驗加工環境。本章介紹工具的生成，驗證和模擬創建CNC（計算機數字代碼）以從多軸生產設計零件的路徑甚至先進的CNC機器。每章中使用的示例和練習問題都經過精心設計，以使它們最終得以應用組裝在本章中。由於這項獨特的功能，您應該保存所有的模型在每一章中都有創建。&lt;/p&gt;</content><category term="2018FallCP"></category></entry><entry><title>nx</title><link href="https://s40723119.github.io/cad2019/blog/nx.html" rel="alternate"></link><published>2019-12-26T11:00:00+08:00</published><updated>2019-12-26T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:s40723119.github.io,2019-12-26:/cad2019/blog/nx.html</id><summary type="html">&lt;p&gt;NX是Siemens PLM Software提供的世界上最先進且緊密集成的CAD / CAM / CAE產品開發解決方案之一。 NX涵蓋了整個產品開發範圍，可為各種規模的企業提供巨大的價值。 它簡化了複雜的產品開發，從而加快了將產品推向市場的過程
 </summary><content type="html">&lt;p&gt;NX是Siemens PLM Software提供的世界上最先進且緊密集成的CAD / CAM / CAE產品開發解決方案之一。 NX涵蓋了整個產品開發範圍，可為各種規模的企業提供巨大的價值。 它簡化了複雜的產品開發，從而加快了將產品推向市場的過程
 &lt;/p&gt;
 &lt;p&gt;第1章簡介&lt;/p&gt;
@@ -81,9 +79,7 @@
 &lt;p&gt;第6章介紹了裝配建模的概念及其術語。它描述了Top-向下建模和自下而上建模。我們將使用自下而上的模型進行組裝組件變成產品。&lt;/p&gt;
 &lt;p&gt;第7章介紹了自由格式建模。曲線和平滑曲面的建模方法將被演示。&lt;/p&gt;
 &lt;p&gt;第8章概述了NX 12中提供的Design Simulations的簡要介紹。&lt;/p&gt;
-&lt;p&gt;第9章將是在製造中實施設計模型的實時經驗加工環境。本章介紹工具的生成，驗證和模擬創建CNC（計算機數字代碼）以從多軸生產設計零件的路徑甚至先進的CNC機器。每章中使用的示例和練習問題都經過精心設計，以使它們最終得以應用組裝在本章中。由於這項獨特的功能，您應該保存所有的模型在每一章中都有創建。&lt;/p&gt;
-&lt;p&gt;資料連結
-&lt;a href="http://mde.tw/cad2019/content/NX.html"&gt;http://mde.tw/cad2019/content/NX.html&lt;/a&gt;&lt;/p&gt;</content><category term="2018FallCP"></category></entry><entry><title>nx</title><link href="https://s40723119.github.io/cad2019/blog/nx.html" rel="alternate"></link><published>2019-12-26T11:00:00+08:00</published><updated>2019-12-26T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:s40723119.github.io,2019-12-26:/cad2019/blog/nx.html</id><summary type="html">&lt;p&gt;NX是Siemens PLM Software提供的世界上最先進且緊密集成的CAD / CAM / CAE產品開發解決方案之一。 NX涵蓋了整個產品開發範圍，可為各種規模的企業提供巨大的價值。 它簡化了複雜的產品開發，從而加快了將產品推向市場的過程
+&lt;p&gt;第9章將是在製造中實施設計模型的實時經驗加工環境。本章介紹工具的生成，驗證和模擬創建CNC（計算機數字代碼）以從多軸生產設計零件的路徑甚至先進的CNC機器。每章中使用的示例和練習問題都經過精心設計，以使它們最終得以應用組裝在本章中。由於這項獨特的功能，您應該保存所有的模型在每一章中都有創建。&lt;/p&gt;</content><category term="2018FallCP"></category></entry><entry><title>nx</title><link href="https://s40723119.github.io/cad2019/blog/nx.html" rel="alternate"></link><published>2019-12-26T11:00:00+08:00</published><updated>2019-12-26T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:s40723119.github.io,2019-12-26:/cad2019/blog/nx.html</id><summary type="html">&lt;p&gt;NX是Siemens PLM Software提供的世界上最先進且緊密集成的CAD / CAM / CAE產品開發解決方案之一。 NX涵蓋了整個產品開發範圍，可為各種規模的企業提供巨大的價值。 它簡化了複雜的產品開發，從而加快了將產品推向市場的過程
 </summary><content type="html">&lt;p&gt;NX是Siemens PLM Software提供的世界上最先進且緊密集成的CAD / CAM / CAE產品開發解決方案之一。 NX涵蓋了整個產品開發範圍，可為各種規模的企業提供巨大的價值。 它簡化了複雜的產品開發，從而加快了將產品推向市場的過程
 &lt;/p&gt;
 &lt;p&gt;第1章簡介&lt;/p&gt;
