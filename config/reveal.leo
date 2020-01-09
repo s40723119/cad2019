@@ -64,9 +64,14 @@
 <t tx="leo.20180902120523.12">#SolveSpace繪圖
 
 1.繪製所需立體圖
+
 2.將零件導入作組合
+
 3.設定零件作限制
+
 4.將各零件組合成實體
+
+5.about作修正
 
 </t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
@@ -85,12 +90,9 @@
 
 						
 </t>
-<t tx="leo.20180902120523.15"># 數學符號與方程式
+<t tx="leo.20180902120523.15"># 期末檢驗影片呈現
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180902120523.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
