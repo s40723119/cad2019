@@ -26,7 +26,7 @@
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20180902120523.15"><vh>影片</vh></v>
 </v>
 </v>
 <v t="leo.20200109230923.1"><vh>各式內容引用範例</vh>
@@ -48,9 +48,11 @@
 
 ### 本學期task檢驗
 
-*SolveSpace編譯與操作
+Created by [s40723119](https://github.com/s40723119/cad2019)
 
-*導入V-rep
+SolveSpace編譯與操作
+
+導入V-rep
 
 
 
@@ -97,7 +99,7 @@
 </t>
 <t tx="leo.20180902120523.15"># 期末檢驗影片呈現
 
-&lt;iframe src="https://www.youtube.com/watch?v=KtZTg1dtwQE&amp;feature=youtu.be" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+影片連結:[期末影片](https://www.youtube.com/watch?v=KtZTg1dtwQE&amp;feature=youtu.be)
 </t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120523.3">@language xml
